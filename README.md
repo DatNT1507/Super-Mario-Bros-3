@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/02a12c74-3be4-4e8c-b1b0-c706a9d3ec89
+
 # Super Mario Bros 3 - Reimagined
 
 A technical recreation of the classic NES platformer, *Super Mario Bros 3*, focusing on precise physics, state-based character logic, and modular enemy AI.
